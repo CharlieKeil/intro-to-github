@@ -1,4 +1,8 @@
 html {
-  background-color: #e2e2e2;
+  background-color: orange;
   Font-family: Georgia;
+}
+
+h1 {
+  color: red;
 }
